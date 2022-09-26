@@ -1,0 +1,102 @@
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+
+{
+  "id": 25,
+  "content": "Last Post!!!"
+}
+
+<> 2022-09-26T214144.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+
+{
+  "id": 25,
+  "content": "Last Post"
+}
+
+<> 2022-09-26T214138.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+
+{
+  "id": 0,
+  "content": "Last Post"
+}
+
+<> 2022-09-26T214105.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+
+{
+  "id": 106,
+  "content": "Last Post"
+}
+
+<> 2022-09-26T213232.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+
+{
+  "id": 106,
+  "content": "Last Post"
+}
+
+<> 2022-09-26T213226.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+
+{
+  "id": 0,
+  "content": "Last Post++"
+}
+
+<> 2022-09-26T213200.200.json
+
+###
+
+GET http://localhost:8080/api/posts
+
+<> 2022-09-26T213044.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+
+{
+  "id": 0,
+  "content": "Last Post"
+}
+
+<> 2022-09-26T213022.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+
+{
+  "id": 0,
+  "content": "Last Post"
+}
+
+<> 2022-09-26T212820.200.json
+
+###
+
